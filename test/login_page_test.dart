@@ -9,9 +9,9 @@ void main() {
       expect(result, 'Enter Email');
     });
 
-    test('validate email id', () {
+    test('validate Password', () {
       final fieldValidator = FieldValidator();
-      var result = fieldValidator.validateEmail('rushita@gmail.com');
+      var result = fieldValidator.validatePassword('234567890467');
       expect(result, '');
     });
   });
