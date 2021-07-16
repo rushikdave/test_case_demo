@@ -120,9 +120,9 @@ class LoginDesign extends StatelessWidget {
                   ),
                   onPressed: () {
                     print('Text field input - ${emailAddressController.text}');
-                    BlocProvider.of<LoginBloc>(context).add(LoginAPIEvents(
-                        emailId: emailAddressController.text,
-                        password: passwordController.text));
+                    // BlocProvider.of<LoginBloc>(context).add(LoginAPIEvents(
+                    //     emailId: emailAddressController.text,
+                    //     password: passwordController.text));
                   },
                   child: TextStyleCommon(
                     textContent: 'Login',
