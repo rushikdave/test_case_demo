@@ -60,8 +60,8 @@ class LoginStateBloc extends StatelessWidget {
 
 class LoginDesign extends StatelessWidget {
   final emailAddressController =
-      TextEditingController(text: 'calendar_test@gmail.com');
-  final passwordController = TextEditingController(text: 'password');
+      TextEditingController();
+  final passwordController = TextEditingController();
 
   @override
   Widget build(BuildContext context) {

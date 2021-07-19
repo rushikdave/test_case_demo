@@ -30,9 +30,13 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_bloc: ^7.0.1
   dio: ^4.0.0
-  convert: ^3.0.0
+  convert: ^2.1.1
 dev_dependencies:
+  integration_test:
+    sdk: flutter
   flutter_test:
+    sdk: flutter
+  flutter_driver:
     sdk: flutter
   bloc_test: ^8.0.2
 
