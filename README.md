@@ -1,16 +1,11 @@
 # test_case_demo
 
-A new Flutter project.
+This is the sample project for flutter test cases.
 
-## Getting Started
+## Medium Blog
+To get more idea about the the flutter testing please visit this article.
+https://medium.com/mindful-engineering/getting-started-with-writing-test-cases-in-flutter-d5f432c4e680
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Let us know!
+We’d be really happy if you send us links to your projects where you use our component. Just send an email to sales@mindinventory.com And do let us know if you have any questions or suggestion regarding our work.
